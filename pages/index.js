@@ -47,7 +47,7 @@ export default function Home() {
                   href="#humanStuff"
                   className="bg-gradient-to-r from-pink-500 to-purple-500 text-white px-4 py-2 rounded-md ml-8"
                 >
-                  Dinglehopper?
+                  Dinglehopper
                 </Link>
               </li>
             </ul>
@@ -60,7 +60,7 @@ export default function Home() {
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white">
               Ocean Explorer and Siren Seeker
             </h3>
-            <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-200">
+            <p className="text-md py-5 leading-8 text-gray-800 md:text-xl md:leading-10 max-w-xl mx-auto dark:text-gray-200">
               An adventurous young mermaid captivated by the wonders of the
               human world. Join me as we dive into the depths of curiosity and
               explore the enchanting mysteries beyond the waves!
