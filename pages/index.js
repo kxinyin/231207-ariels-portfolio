@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div className={darkMode ? "dark" : ""}>
       <Head>
-        <title>Ariel Tritonsdatter&apos;s Portfolio</title>
+        <title>Ariel Tritonsdatter</title>
         <link rel="icon" href="/shell.png" sizes="any" />
       </Head>
 
